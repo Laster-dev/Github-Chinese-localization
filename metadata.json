@@ -1,0 +1,6 @@
+{
+  "name": "GitHub 汉化助手",
+  "description": "LSPosed 模块与配置中心，支持 GitHub App 界面汉化与仓库文本实时翻译",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- GitHub Octocat / Branch shape backdrop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,66.38 34.02,76.88 45.18,80.59 C46.58,80.85 47.09,79.98 47.09,79.24 C47.09,78.58 47.07,76.82 47.06,74.5 C39.27,76.19 37.63,70.74 37.63,70.74 C36.35,67.5 34.52,66.64 34.52,66.64 C31.98,64.9 34.71,64.93 34.71,64.93 C37.52,65.13 39,67.82 39,67.82 C41.49,72.09 45.54,70.86 47.13,70.14 C47.38,68.33 48.11,67.09 48.91,66.39 C42.69,65.68 36.15,63.28 36.15,52.54 C36.15,49.48 37.24,46.98 39.03,45.02 C38.74,44.31 37.78,41.46 39.3,37.6 C39.3,37.6 41.65,36.85 46.98,40.46 C49.21,39.84 51.61,39.53 54,39.52 C56.39,39.53 58.79,39.84 61.02,40.46 C66.35,36.85 68.7,37.6 68.7,37.6 C70.22,41.46 69.26,44.31 68.97,45.02 C70.76,46.98 71.85,49.48 71.85,52.54 C71.85,63.32 65.29,65.67 59.05,66.36 C60.06,67.23 60.96,68.95 60.96,71.59 C60.96,75.39 60.92,78.47 60.92,79.24 C60.92,79.99 61.42,80.87 62.84,80.59 C73.99,76.87 82,66.37 82,54 C82,38.54 69.46,26 54,26 Z" />
+
+    <!-- Translation Badge (Cyan / Electric Blue Floating Orb) -->
+    <path
+        android:fillColor="#238636"
+        android:pathData="M60,54 L78,54 A4,4 0 0 1 82,58 L82,76 A4,4 0 0 1 78,80 L60,80 A4,4 0 0 1 56,76 L56,58 A4,4 0 0 1 60,54 Z" />
+
+    <path
+        android:fillColor="#58A6FF"
+        android:pathData="M61,55 L77,55 A3,3 0 0 1 80,58 L80,74 A3,3 0 0 1 77,77 L61,77 A3,3 0 0 1 58,74 L58,58 A3,3 0 0 1 61,55 Z" />
+
+    <!-- Chinese "译" character strokes -->
+    <!-- 言字旁 (left radical) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,60 L65.5,60 A0.6,0.6 0 0 1 65.5,61.2 L63,61.2 A0.6,0.6 0 0 1 63,60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,62.5 L66,62.5 A0.5,0.5 0 0 1 66,63.5 L62.5,63.5 A0.5,0.5 0 0 1 62.5,62.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.8,64.8 L65.7,64.8 A0.5,0.5 0 0 1 65.7,65.8 L62.8,65.8 A0.5,0.5 0 0 1 62.8,64.8 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,67 L65.5,67 L65.5,70.5 L63,70.5 Z M63.8,67.8 L63.8,69.7 L64.7,69.7 L64.7,67.8 Z" />
+
+    <!-- 泽/尺 right component (simplified 译 right side) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.5,60.5 L75.5,60.5 A0.5,0.5 0 0 1 75.5,61.5 L72,61.5 L72,63.5 L75,63.5 A0.5,0.5 0 0 1 75,64.5 L68,64.5 A0.5,0.5 0 0 1 68,63.5 L71,63.5 L71,61.5 L67.5,61.5 A0.5,0.5 0 0 1 67.5,60.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,66 L74.5,66 A0.6,0.6 0 0 1 75,67 L72,70 L75,73.5 A0.6,0.6 0 0 1 74,74.2 L71.2,70.8 L69,73.8 A0.6,0.6 0 0 1 68,73 Z" />
+
+</vector>
