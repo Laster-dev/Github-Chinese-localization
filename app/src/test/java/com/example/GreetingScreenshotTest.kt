@@ -29,6 +29,17 @@ class GreetingScreenshotTest {
             }
         }
 
-        composeTestRule.onRoot().captureRoboImage(filePath = "src/test/screenshots/greeting.png")
+        composeTestRule.onRoot().captureRoboImage(filePath = "src/test/screenshots/dictionary.png")
+    }
+
+    @Test
+    fun guide_screenshot() {
+        composeTestRule.setContent {
+            MyApplicationTheme {
+                com.example.ui.screens.GuideScreen()
+            }
+        }
+
+        composeTestRule.onRoot().captureRoboImage(filePath = "src/test/screenshots/guide.png")
     }
 }
